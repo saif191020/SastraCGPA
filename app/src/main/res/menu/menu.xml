@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_cgpa"
+        android:title="CGPA"
+        android:tooltipText="set CGPA"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/Graph"
+        android:title="View Graph"
+        />
+    <item
+        android:id="@+id/Target"
+        android:title="Target Finder
+"
+        />
+    <item
+        android:id="@+id/News"
+        android:title="News"
+        />
+</menu>

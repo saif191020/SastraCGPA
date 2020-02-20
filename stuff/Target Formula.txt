@@ -1,0 +1,18 @@
+Current_Crd*CurrentCG + nextSem_crd*(x)
+_______________________________ =  TARGET
+   CURRENT_CRD+nxt_CRD
+
+
+CC     =   Current_crd
+NC     =   nxtSem_crdt
+CCG    =   currentCG
+x      =    (X)
+target = TARGETCG
+
+CC*CCG + NC*x
+_____________ = target
+  CC+NC
+
+	target*(CC+NC) - (CC*CCG)
+x     = ________________________
+      		   NC
