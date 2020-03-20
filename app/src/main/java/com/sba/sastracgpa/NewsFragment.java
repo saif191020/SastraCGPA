@@ -49,6 +49,7 @@ public class NewsFragment extends Fragment {
             progressDialog = new ProgressDialog(getActivity());
             progressDialog.setMessage("Loding Content...");
             progressDialog.show();
+            progressDialog.setCancelable(false);
 
 
 

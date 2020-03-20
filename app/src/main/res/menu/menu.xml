@@ -12,9 +12,12 @@
         android:title="View Graph"
         />
     <item
-        android:id="@+id/Target"
-        android:title="Target Finder
-"
+        android:id="@+id/Target1"
+        android:title="Target Finder(SGPA)"
+        />
+    <item
+        android:id="@+id/Target2"
+        android:title="Target Finder(CGPA)"
         />
     <item
         android:id="@+id/News"

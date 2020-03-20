@@ -99,7 +99,7 @@ public class TargetActivity extends AppCompatActivity {
                             ((Double)(tar*(ccredit+nextCrdt))-(Double)( (ccredit * curCGPA)))
                                                             /
                                                         (nextCrdt)
-                )  ;
+                );
             String reqCgPa = "Required SGPA : " + String.format("%.4f",X);
             RCG.setText(reqCgPa);
         }

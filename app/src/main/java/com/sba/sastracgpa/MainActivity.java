@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
         {
             Intent i =new Intent(MainActivity.this,GraphActivity.class);
             startActivity(i);
-        }else if(id== R.id.Target)
+        }else if(id== R.id.Target1)
         {
             Intent intent =new Intent(MainActivity.this,TargetActivity.class);
             startActivity(intent);
