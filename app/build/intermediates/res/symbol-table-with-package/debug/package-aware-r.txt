@@ -23,6 +23,7 @@ anim btn_radio_to_off_mtrl_ring_outer_path_animation
 anim btn_radio_to_on_mtrl_dot_group_animation
 anim btn_radio_to_on_mtrl_ring_outer_animation
 anim btn_radio_to_on_mtrl_ring_outer_path_animation
+array Sems_Avalable
 array Sems_Completed
 array cri
 array gra
@@ -750,7 +751,8 @@ id SGPA9
 id SHIFT
 id SYM
 id Save
-id Target
+id Target1
+id Target2
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -997,6 +999,17 @@ id tag_screen_reader_focusable
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
+id target2__cg
+id target2_calculate
+id target2_cg
+id target2_currentcg
+id target2_currentcrd
+id target2_et_nxtcrd
+id target2_forech
+id target2_nextcrd
+id target2_requiredcg
+id target2_tot_sems
+id target2_tot_spinner_sems
 id target__cg
 id target_calculate
 id target_cg
@@ -1016,6 +1029,7 @@ id title_template
 id toolbar
 id toolbar2
 id toolbar3
+id toolbar4
 id top
 id topPanel
 id tv_choice
@@ -1074,6 +1088,7 @@ layout activity_graph
 layout activity_main
 layout activity_news_and_events
 layout activity_target
+layout activity_target_cgpa
 layout activity_webpage
 layout custom_dialog
 layout newsfragment
