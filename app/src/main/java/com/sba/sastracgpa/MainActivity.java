@@ -119,6 +119,10 @@ public class MainActivity extends AppCompatActivity {
         {
             Intent intent =new Intent(MainActivity.this,TargetActivity.class);
             startActivity(intent);
+        }else if(id== R.id.Target2)
+        {
+            Intent intent =new Intent(MainActivity.this,TargetCgpaActivity.class);
+            startActivity(intent);
         } else if(id== R.id.News)
         {
             Intent intent =new Intent(MainActivity.this,NewsAndEvents.class);

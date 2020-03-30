@@ -12,7 +12,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".WebpageActivity"></activity>
+        <activity
+            android:name=".TargetCgpaActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".WebpageActivity" />
         <activity android:name=".NewsAndEvents" />
         <activity
             android:name=".TargetActivity"

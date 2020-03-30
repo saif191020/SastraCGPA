@@ -13,11 +13,11 @@
         />
     <item
         android:id="@+id/Target1"
-        android:title="Target Finder(SGPA)"
+        android:title="Next Sem Predictor"
         />
     <item
         android:id="@+id/Target2"
-        android:title="Target Finder(CGPA)"
+        android:title="End Sem Predictor"
         />
     <item
         android:id="@+id/News"
