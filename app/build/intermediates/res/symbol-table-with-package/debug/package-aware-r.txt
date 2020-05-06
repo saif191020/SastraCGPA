@@ -1030,6 +1030,7 @@ id toolbar
 id toolbar2
 id toolbar3
 id toolbar4
+id toolbarnews
 id top
 id topPanel
 id tv_choice

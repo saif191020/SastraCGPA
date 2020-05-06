@@ -9,17 +9,20 @@
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="100dp"
-        card_view:cardElevation="5dp"
-        card_view:cardCornerRadius="8dp"
-        android:layout_margin="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
 
-        card_view:cardBackgroundColor="#E7E7E7"
-        >
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        card_view:cardBackgroundColor="#F5EDED"
+        card_view:cardCornerRadius="6dp"
+        card_view:cardElevation="5dp">
 
 
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
+
             <TextView
                 android:id="@+id/newsHeadLine"
                 android:layout_width="wrap_content"

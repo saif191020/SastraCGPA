@@ -18,7 +18,7 @@
 12-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:6:22-76
 13
 14    <application
-14-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:8:5-32:19
+14-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:8:5-34:19
 15        android:allowBackup="true"
 15-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:9:9-35
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -32,47 +32,49 @@
 20-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:12:9-54
 21        android:supportsRtl="true"
 21-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:13:9-35
-22        android:testOnly="true"
-23        android:theme="@style/AppTheme" >
-23-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:14:9-40
-24        <activity
-24-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:15:9-17:58
-25            android:name="com.sba.sastracgpa.TargetCgpaActivity"
-25-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:16:13-47
-26            android:parentActivityName="com.sba.sastracgpa.MainActivity" />
-26-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:17:13-55
-27        <activity android:name="com.sba.sastracgpa.WebpageActivity" />
-27-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:18:9-53
-27-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:18:19-50
-28        <activity android:name="com.sba.sastracgpa.NewsAndEvents" />
-28-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:19:9-51
-28-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:19:19-48
-29        <activity
-29-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:20:9-22:58
-30            android:name="com.sba.sastracgpa.TargetActivity"
-30-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:21:13-43
-31            android:parentActivityName="com.sba.sastracgpa.MainActivity" />
-31-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:22:13-55
-32        <activity android:name="com.sba.sastracgpa.GraphActivity" />
-32-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:23:9-51
-32-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:23:19-48
-33        <activity android:name="com.sba.sastracgpa.CgpaActivity" />
-33-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:24:9-50
-33-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:24:19-47
-34        <activity android:name="com.sba.sastracgpa.MainActivity" >
-34-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:25:9-31:20
-34-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:25:19-47
-35            <intent-filter>
-35-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:26:13-30:29
-36                <action android:name="android.intent.action.MAIN" />
-36-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:27:17-69
-36-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:27:25-66
-37
-38                <category android:name="android.intent.category.LAUNCHER" />
-38-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:29:17-77
-38-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:29:27-74
-39            </intent-filter>
-40        </activity>
-41    </application>
-42
-43</manifest>
+22        android:theme="@style/AppTheme" >
+22-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:14:9-40
+23        <activity
+23-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:15:9-17:58
+24            android:name="com.sba.sastracgpa.TargetCgpaActivity"
+24-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:16:13-47
+25            android:parentActivityName="com.sba.sastracgpa.MainActivity" />
+25-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:17:13-55
+26        <activity android:name="com.sba.sastracgpa.WebpageActivity" />
+26-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:18:9-53
+26-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:18:19-50
+27        <activity
+27-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:19:9-21:58
+28            android:name="com.sba.sastracgpa.NewsAndEvents"
+28-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:20:13-42
+29            android:parentActivityName="com.sba.sastracgpa.MainActivity" />
+29-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:21:13-55
+30        <activity
+30-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:22:9-24:58
+31            android:name="com.sba.sastracgpa.TargetActivity"
+31-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:23:13-43
+32            android:parentActivityName="com.sba.sastracgpa.MainActivity" />
+32-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:24:13-55
+33        <activity android:name="com.sba.sastracgpa.GraphActivity" />
+33-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:25:9-51
+33-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:25:19-48
+34        <activity android:name="com.sba.sastracgpa.CgpaActivity" />
+34-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:26:9-50
+34-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:26:19-47
+35        <activity android:name="com.sba.sastracgpa.MainActivity" >
+35-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:27:9-33:20
+35-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:27:19-47
+36            <intent-filter>
+36-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:28:13-32:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:29:17-69
+37-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:29:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:31:17-77
+39-->C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:31:27-74
+40            </intent-filter>
+41        </activity>
+42    </application>
+43
+44</manifest>

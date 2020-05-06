@@ -5,15 +5,28 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".NewsAndEvents">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarnews"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:titleTextColor="#ffffff"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:title="SASTRA News" />
 
     <fragment
         android:id="@+id/fragment"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
         android:name="com.sba.sastracgpa.NewsFragment"
-        tools:layout="@layout/newsfragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/toolbarnews"
+        tools:layout="@layout/newsfragment" />
 </androidx.constraintlayout.widget.ConstraintLayout>

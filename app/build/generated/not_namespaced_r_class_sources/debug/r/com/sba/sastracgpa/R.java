@@ -4049,19 +4049,20 @@ public final class R {
     public static final int toolbar2=0x7f080128;
     public static final int toolbar3=0x7f080129;
     public static final int toolbar4=0x7f08012a;
-    public static final int top=0x7f08012b;
-    public static final int topPanel=0x7f08012c;
-    public static final int tv_choice=0x7f08012d;
-    public static final int tv_current_cgpa=0x7f08012e;
-    public static final int tvc_nos=0x7f08012f;
-    public static final int unchecked=0x7f080130;
-    public static final int uniform=0x7f080131;
-    public static final int up=0x7f080132;
-    public static final int useLogo=0x7f080133;
-    public static final int web_view=0x7f080134;
-    public static final int withText=0x7f080135;
-    public static final int wrap=0x7f080136;
-    public static final int wrap_content=0x7f080137;
+    public static final int toolbarnews=0x7f08012b;
+    public static final int top=0x7f08012c;
+    public static final int topPanel=0x7f08012d;
+    public static final int tv_choice=0x7f08012e;
+    public static final int tv_current_cgpa=0x7f08012f;
+    public static final int tvc_nos=0x7f080130;
+    public static final int unchecked=0x7f080131;
+    public static final int uniform=0x7f080132;
+    public static final int up=0x7f080133;
+    public static final int useLogo=0x7f080134;
+    public static final int web_view=0x7f080135;
+    public static final int withText=0x7f080136;
+    public static final int wrap=0x7f080137;
+    public static final int wrap_content=0x7f080138;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f090000;
