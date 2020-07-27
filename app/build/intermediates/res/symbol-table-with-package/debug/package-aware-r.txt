@@ -717,6 +717,7 @@ drawable button
 drawable ic_graph
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_noti_icon1
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -1116,6 +1117,7 @@ layout support_simple_spinner_dropdown_item
 layout view_anychart
 menu menu
 mipmap ic_launcher
+mipmap ic_launcher_background
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string abc_action_bar_home_description

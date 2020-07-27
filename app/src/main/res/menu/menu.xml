@@ -17,7 +17,7 @@
         />
     <item
         android:id="@+id/Target2"
-        android:title="End Sem Predictor"
+        android:title="Target CGPA Predictor"
         />
     <item
         android:id="@+id/News"
