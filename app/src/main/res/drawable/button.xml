@@ -4,6 +4,6 @@
     android:innerRadius="20dp"
 
     >
-   <solid android:color="#0839E4"></solid>
-    <corners android:radius="10dp"></corners>
+    <solid android:color="@color/buttonColor" />
+    <corners android:radius="10dp" />
 </shape>

@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF"
     tools:context=".MainActivity"
 
     >
@@ -15,11 +14,10 @@
         android:layout_height="wrap_content"
         android:background="@color/colorPrimary"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:titleTextColor="#ffffff"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:titleTextColor="#ffffff"
-         />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ScrollView
         android:id="@+id/scrollView2"
@@ -37,8 +35,7 @@
 
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:background="#FFFFFF">
+            android:layout_height="match_parent">
 
             <TextView
                 android:id="@+id/tv_choice"
@@ -49,7 +46,7 @@
                 android:layout_marginTop="8dp"
                 android:layout_marginEnd="5dp"
                 android:text="How Many Subjects ?"
-                android:textColor="@android:color/background_dark"
+                android:textColor="@color/textColor"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -82,7 +79,7 @@
                     android:layout_column="0"
                     android:text="Credit"
                     android:textAlignment="center"
-                    android:textColor="#000000"
+                    android:textColor="@color/textColor"
                     android:textSize="20sp" />
 
                 <TextView
@@ -93,7 +90,7 @@
                     android:layout_column="1"
                     android:text="Grade"
                     android:textAlignment="center"
-                    android:textColor="#000000"
+                    android:textColor="@color/textColor"
                     android:textSize="20sp" />
 
                 <Spinner
@@ -285,7 +282,7 @@
                 android:fontFamily="monospace"
                 android:text="SGPA :       "
 
-                android:textColor="#000000"
+                android:textColor="@color/textColor"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -299,7 +296,7 @@
                 android:fontFamily="monospace"
                 android:text="CGPA :       "
 
-                android:textColor="#000000"
+                android:textColor="@color/textColor"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -320,7 +317,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/scrollView2" />
-
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

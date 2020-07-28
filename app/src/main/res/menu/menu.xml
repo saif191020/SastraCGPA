@@ -13,14 +13,14 @@
         />
     <item
         android:id="@+id/Target1"
-        android:title="Next Sem Predictor"
-        />
+        android:title="Next Sem Predictor" />
     <item
         android:id="@+id/Target2"
-        android:title="Target CGPA Predictor"
-        />
+        android:title="Target CGPA Predictor" />
     <item
         android:id="@+id/News"
-        android:title="News"
-        />
+        android:title="News" />
+    <item
+        android:id="@+id/darkSeletionMenu"
+        android:title="Dark Mode" />
 </menu>

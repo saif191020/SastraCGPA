@@ -47,4 +47,9 @@
     </string-array>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose_theme">Choose theme</string>
+    <string name="system_default">System default</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+    <string name="follow_battery_saver">Follow Battery saver</string>
 </resources>
