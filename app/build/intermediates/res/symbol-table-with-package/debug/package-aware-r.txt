@@ -1404,6 +1404,7 @@ id Graph
 id META
 id News
 id News_links
+id SGPA
 id SGPA1
 id SGPA10
 id SGPA2
@@ -1478,9 +1479,9 @@ id add
 id alertTitle
 id all
 id always
-id anyChartView
 id async
 id auto
+id barchart
 id barrier
 id beginning
 id blocking
@@ -1684,7 +1685,6 @@ id password_toggle
 id peekHeight
 id percent
 id pin
-id progress_bar
 id progress_circular
 id progress_horizontal
 id radio
@@ -1812,7 +1812,6 @@ id up
 id useLogo
 id view_offset_helper
 id visible
-id web_view
 id withText
 id wrap
 id wrap_content
@@ -1961,7 +1960,6 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
-layout view_anychart
 menu menu
 mipmap ic_launcher
 mipmap ic_launcher_background

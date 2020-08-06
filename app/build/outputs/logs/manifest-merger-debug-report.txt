@@ -4,7 +4,6 @@ ADDED from C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\Andro
 INJECTED from C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:2:1-36:12
 INJECTED from C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:2:1-36:12
 INJECTED from C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:2:1-36:12
-MERGED from [com.github.AnyChart:AnyChart-Android:1.1.2] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\724caf5ce94273194fc97deffad294db\jetified-AnyChart-Android-1.1.2\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\b8286ed28b50483d1bfadc3ffa43e8ca\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\d74b5b498b35fd5cb32d0a6997bb1d3d\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -12,6 +11,7 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Basheer\.gradle\c
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\af19d2bf9efbba5c87d98162386fe6bd\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\4677d8a5382c107f6965fb7455600737\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\f64c8351ef0c9a7a800019d28185706c\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\26ee40011cd87e86654f02f8593f51a6\MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\d934be3c652b5ff5c18e2d68c8236453\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\c63ceca946e9bc27525371878741042e\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\8d97f43c730baedb50b76131bea8976c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -69,8 +69,6 @@ ADDED from C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\Andro
 		ADDED from C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:6:22-76
 application
 ADDED from C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml:8:5-34:19
-MERGED from [com.github.AnyChart:AnyChart-Android:1.1.2] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\724caf5ce94273194fc97deffad294db\jetified-AnyChart-Android-1.1.2\AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.AnyChart:AnyChart-Android:1.1.2] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\724caf5ce94273194fc97deffad294db\jetified-AnyChart-Android-1.1.2\AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\b8286ed28b50483d1bfadc3ffa43e8ca\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\b8286ed28b50483d1bfadc3ffa43e8ca\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -141,8 +139,6 @@ uses-sdk
 INJECTED from C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Basheer\Documents\Android Apps\SASTRACGPA\app\src\main\AndroidManifest.xml
-MERGED from [com.github.AnyChart:AnyChart-Android:1.1.2] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\724caf5ce94273194fc97deffad294db\jetified-AnyChart-Android-1.1.2\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.AnyChart:AnyChart-Android:1.1.2] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\724caf5ce94273194fc97deffad294db\jetified-AnyChart-Android-1.1.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\b8286ed28b50483d1bfadc3ffa43e8ca\material-1.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\b8286ed28b50483d1bfadc3ffa43e8ca\material-1.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\d74b5b498b35fd5cb32d0a6997bb1d3d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -157,6 +153,8 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Basheer\.gradle\
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\4677d8a5382c107f6965fb7455600737\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\f64c8351ef0c9a7a800019d28185706c\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\f64c8351ef0c9a7a800019d28185706c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\26ee40011cd87e86654f02f8593f51a6\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\26ee40011cd87e86654f02f8593f51a6\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\d934be3c652b5ff5c18e2d68c8236453\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\d934be3c652b5ff5c18e2d68c8236453\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Basheer\.gradle\caches\transforms-2\files-2.1\c63ceca946e9bc27525371878741042e\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
