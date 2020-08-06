@@ -34,7 +34,6 @@ public class GraphActivity extends AppCompatActivity {
 
     private int nos;
     private BarChart chart;
-    //AnyChartView anyChartView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,21 +42,6 @@ public class GraphActivity extends AppCompatActivity {
 
         Declaration();
 
-//        List<DataEntry> data = new ArrayList<>();
-//        for (int i = 0; i < nos; i++) {
-//            data.add(new ValueDataEntry(String.valueOf(i + 1), Double.parseDouble(sharedPreferences.getString(my_pref_sgpa[i], ""))));
-//        }
-//
-//        Cartesian cartesian = AnyChart.column();
-//
-//
-//        cartesian.yScale().maximum(10d);
-//        Column column = cartesian.column(data);
-//        cartesian.xAxis(0).title("Sem");
-//
-//        cartesian.yAxis(0).title("SGPA");
-//        cartesian.animation(true);
-//        anyChartView.setChart(cartesian);
 
         List<BarEntry> entries = new ArrayList<>();
 
@@ -131,8 +115,6 @@ public class GraphActivity extends AppCompatActivity {
         }
 
         chart = (BarChart) findViewById(R.id.barchart);
-//      anyChartView =findViewById(R.id.anyChartView);
-//      anyChartView.setProgressBar(findViewById(R.id.progress_bar));
 
     }
 }
